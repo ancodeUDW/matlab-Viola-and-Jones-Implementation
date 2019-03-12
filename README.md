@@ -25,3 +25,6 @@ I really hated to have to work in this project with such time restraings and whi
 However I did love the challenge and all what I learn about learning algorithms and matlab.
 
 I always wanted to share it for if someone wanted to take a look. I am open to suggestions to improve it :)
+
+
+note: inside "documentation" you can find the powerpoint and the document I did for the master and some other people's documents as reference
