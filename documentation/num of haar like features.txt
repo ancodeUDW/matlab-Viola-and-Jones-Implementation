@@ -1,0 +1,35 @@
+no limitation:
+
+object_type_1_num = 43200  -> 20,990 s
+object_type_2_num = 43200  -> 21.061 s
+object_type_3_num = 27300  ->  9.030 s
+------------------------------------------
+total              113700
+
+
+
+unitary rectangle limitations:
+min-size: 2x2
+max-BIGGER-size 22x22 - 21 for the type 3 width 3x7=21
+
+object_type_1_num = 32760
+object_type_2_num = 32760
+object_type_3_num = 18837
+------------------------------------------
+total               84357
+
+
+
+unitary rectangle limitations:
+min position: 2,2
+max position: 23,23
+min-size: 2x2
+max-BIGGER-size 20x20 - 21 for the type 3 width 3x7=21
+
+object_type_1_num = 22572
+object_type_2_num = 22572
+object_type_3_num = 12996
+------------------------------------------
+total               58140
+
+its 0.5113 times the original, almost half of them. we will keep the features from starting in the position 1,1, and in the last row and files. the features, though, can end in there if necessary

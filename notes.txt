@@ -1,0 +1,2 @@
+- the GUI doesnt work proprely if executed directly, so, in order to work properly, it
+should be open first in GUIDE and execute it from there.

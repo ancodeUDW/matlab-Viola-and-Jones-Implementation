@@ -1,0 +1,2 @@
+1st try: 75 faces, 75 no faces -> 54% 
+2nd try: 142 faces 142 no faces -> for 20 classifiers: 60%, for 100 classifiers: 75%
